@@ -2,7 +2,7 @@
 Lane Detection with OpenCV and Python
 
 ## About
-This project aims to detect lines on real-world images using Python and OpenCV. After performing edge detection and Hough Line Detection we aim to display each edge of the line with a red line.
+This project aims to detect lines on real-world images using Python and OpenCV. After performing edge detection and Hough Line Detection it displays each edge of the line with a red line.
 
 ## Prerequisites
 1. Python
