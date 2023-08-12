@@ -1,3 +1,13 @@
+"""
+lane-detection.py
+
+Detects lane from a picture 
+
+Author: Iliza Nazeraj
+Date: 10/28/2022
+"""
+
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
